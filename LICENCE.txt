@@ -1,3 +1,5 @@
+NOTE: this licence applies to all code in the src.john01dav.serverforge package and NO WHERE ELSE.
+
 Copyright (c) 2014, john01dav
 All rights reserved.
 
